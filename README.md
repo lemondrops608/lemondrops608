@@ -17,8 +17,8 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=lemondrops608&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lemondrops608&layout=compact&theme=radical)
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=你的用户名.你的用户名) <!-- 这是一个显示主页访问次数的徽章 -->
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=lemondrops608.lemondrops608) <!-- 这是一个显示主页访问次数的徽章 -->

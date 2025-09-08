@@ -10,7 +10,6 @@
 
 ## 🛠️ Tech Stack
 
-[列出你熟悉或经常使用的技术和工具，可以用图标让它们更醒目。]
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -18,7 +17,6 @@
 
 ## 📊 GitHub Stats
 
-[可以添加一些动态生成的统计信息卡，让你的主页更丰富。]
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical)

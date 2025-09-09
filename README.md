@@ -5,7 +5,7 @@
 -   🌱 I’m currently studying in Shanghai Jiao Tong University
 -   🔭 I’m currently working as research intern at RHOS
 -   📫 How to reach me: niemingtao@sjtu.edu.cn
--   ⚡ Fun fact: [一个有趣的小事实，让你更有人情味]
+-   ⚡ Fun fact: The Chinese abbreviation for lemondrops is the same as the Chinese abbreviation for my name.
 -   🌐 My personal website is https://lemondrops608.github.io/
 
 ## 🛠️ Tech Stack
